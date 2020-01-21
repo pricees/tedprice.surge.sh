@@ -8,6 +8,7 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
 import type { PageContext, AllMarkdownRemark } from '../types';
+import siteConfig from '../../config.js';
 
 type Props = {
   data: AllMarkdownRemark,
@@ -32,7 +33,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
-      <h1>This Sweet Ole' Blog</h1>
+      <h1>{siteConfig.title}</h1>
       <Page>
         <Feed edges={edges} />
         <Pagination

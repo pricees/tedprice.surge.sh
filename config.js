@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://tedprice.surge.sh',
   pathPrefix: '/',
-  title: 'Blog by Ted Price',
+  title: "This Sweet Ole' Blog",
   subtitle: 'What my Geocities website would be',
   copyright: '© All rights reserved.',
   disqusShortname: 'tedprice',
