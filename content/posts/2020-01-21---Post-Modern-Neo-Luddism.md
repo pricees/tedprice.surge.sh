@@ -43,7 +43,7 @@ The content is either there or it's not. If I am not interested in the content I
 
 As mentioned earlier, I write non-trivial driving directions down on paper. The upshot is that I have started memorizing my surroundings and have become comfortable with highway exit and route numbers. I was pleasantly surprised how that muscle came right back.
 
-##### Camera
+#### Camera
 
 For my birthday, I have asked my wife for a wifi-enabled Elph 190. We shall see how this goes.
 
