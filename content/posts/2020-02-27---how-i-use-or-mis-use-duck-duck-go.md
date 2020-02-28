@@ -24,7 +24,7 @@ A few of the bang commands I use frequently:
 ```
 !g cigar lounge near me # escape hatch to Google search engine for a cigar lounge
 !rails validations      # search rails docs for validations
-!ruby enumerable        # search official ruby doc for enumerable module documentation
+!hn rust                # search for rust HackerNews submissions
 !yt morning meditation  # search youtube for morning meditation
 !sr heavyseas           # heavyseas subreddit
 ```
